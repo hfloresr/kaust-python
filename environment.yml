@@ -17,8 +17,12 @@ dependencies:
   - pandas
   - pandas-datareader
   - pytables
+  - scikit-image
   - scikit-learn
+  - scipy
+  - seaborn
   - snakeviz
+  - statsmodels
   - ujson
   - graphviz
   - pip
