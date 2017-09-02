@@ -7,16 +7,15 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# pyenv
-.python-version
+*.pyc
+*.dot
+*.pdf
 
-# dotenv
-.env
-
-# virtualenv
-.venv
-venv/
-ENV/
-
-# Rope project settings
-.ropeproject
+data/accounts.*.json.gz
+data/accounts.*.csv
+data/accounts.h5
+data/random.hdf5
+data/weather-big
+data/myfile.hdf5
+profile.html
+log
